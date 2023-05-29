@@ -1,5 +1,13 @@
-### Hi there 👋
-
+<div align="center">
+  
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=%20render&fontSize=90)
+ 
+  ### Tech Stack
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  
+  
+</div>
 <!--
 **yeomj051/yeomj051** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
